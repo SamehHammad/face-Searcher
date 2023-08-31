@@ -1,0 +1,15 @@
+.drag-img {
+    margin-top: 20vh;
+    width: 80%;
+  padding: 12px 30px 0;
+  border: 1px solid #fff;
+  background-color: #ffffff0c;
+  cursor: pointer;
+  text-align: center;
+  color: #1fdd8e;
+}
+.drag-img:hover{
+    border: 2px dotted #085736;
+    background-color: #ffffff1f;
+
+}
